@@ -1,0 +1,7 @@
+Q1) https://github.com/DeepakR-Sastry
+Q2) 2.22.0
+Q3) 2.28.1
+Q4) All the python packages installed on the base environment are not accessible in the virtual environment. This allows us to create an environment where we can specify the versions of all the different packages we want to use in a project. 
+Q5) Status code 301. You must visit http://www.google.com/ to get a 200 status code.
+Q6) Status code 418. It is returned by curl -i. Just curl will give you the html code without any headers. 
+Q7) The form fields changed when we used -X POST. This method is used to POST or upload data to the webpage.
